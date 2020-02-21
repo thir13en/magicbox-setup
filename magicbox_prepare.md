@@ -10,4 +10,5 @@ sublime text
 nvm
 node --lts
 jetbrains toolbox
-virtualbox
+virtualbox from ppa
+download and set up virtualbox guest additions
