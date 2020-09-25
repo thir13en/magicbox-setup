@@ -7,6 +7,7 @@
 ### install  
 * copy ssh keys  
 * git  
+* docker && run without sudo
 * hyper terminal + theme + plugins    
 * oh my zsh  
 * gnome-tweak-tool  
