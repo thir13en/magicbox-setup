@@ -9,7 +9,9 @@
 * git  
 * docker && run without sudo
 * hyper terminal + theme + plugins    
-* oh my zsh  
+* zsh  
+* oh my zsh && theme
+* mc (Midnight Commander)
 * gnome-tweak-tool  
 * gnome theme (dark twist)  
 * firefox  
