@@ -25,6 +25,7 @@
 * sublime text  
 * nvm  
 * sdkman  
+* snapd
 * firefox  
 * firefox developer edition  
 * chrome  
