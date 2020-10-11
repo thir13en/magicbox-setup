@@ -17,6 +17,7 @@
 * gnome theme (dark twist)  
 * git  
 * git ssh key gen  
+* gh (github terminal client)
 * hyper terminal + theme + plugins  
 * mc (Midnight Commander)  
 * docker && run without sudo  
@@ -46,6 +47,8 @@
 * sdkman -> java sdk 8 11 15 gradle  
 * gwt sdk in `~/.gwt` folder  
 * npm -> npm yarn typescript @angular/cli @ionic/cli  
+* homebrew
+* hugo
 * jetbrains toolbox  
 * intelliJ ultimate  
 * webstorm  
