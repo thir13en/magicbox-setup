@@ -47,6 +47,7 @@
 * sdkman -> java sdk 8 11 15 gradle  
 * gwt sdk in `~/.gwt` folder  
 * npm -> npm yarn typescript @angular/cli @ionic/cli  
+* `npm config set save-prefix="~"`
 * homebrew
 * hugo
 * jetbrains toolbox  
