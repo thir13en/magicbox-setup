@@ -1,7 +1,7 @@
 # Fedora 32
 
 ### Before Installation
-* backup ssh keys  
+* backup ssh and gpg keys  
 * `.zsh_aliases`
 * backup files
 
