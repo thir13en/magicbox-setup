@@ -49,6 +49,7 @@
 * npm -> npm yarn typescript @angular/cli @ionic/cli  
 * `npm config set save-prefix="~"`
 * homebrew
+* filezilla
 * hugo
 * jetbrains toolbox  
 * intelliJ ultimate  
