@@ -26,7 +26,7 @@
 * sublime text  
 * nvm  
 * sdkman  
-* snapd
+* snapdsudo snap install --classic code
 * colorpicker  
 * postman  
 * beekeper studio
@@ -53,7 +53,7 @@
 * hugo
 * jetbrains toolbox  
 * intelliJ ultimate  
-* webstorm  
+* webstorm / code
 * safeeyes  
 * standard notes  
 * glimpse  
